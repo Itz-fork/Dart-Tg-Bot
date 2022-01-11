@@ -1,0 +1,13 @@
+name: dart_tg_bot
+description: Test bot written using teledart package.
+version: 1.0.0
+homepage: https://github.com/Itz-fork/Dart-Tg-Bot
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+
+dev_dependencies:
+  lints: ^1.0.0
+dependencies: 
+  teledart: ^0.3.2
